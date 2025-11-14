@@ -2,7 +2,7 @@
 
 ## Overview
 
-A comprehensive Python implementation of fundamental data structures and algorithms. This repository serves as both a reference implementation and a practical toolkit for understanding core computer science concepts. Each implementation emphasizes clarity, correctness, and educational value.
+Python implementation of fundamental data structures and algorithms. This repository serves as both a reference implementation and a practical toolkit for understanding core computer science concepts. Each implementation emphasizes clarity, correctness, and educational value.
 
 ## Table of Contents
 
